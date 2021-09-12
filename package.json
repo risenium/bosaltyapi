@@ -1,0 +1,17 @@
+{
+  "name": "bosaltyapi",
+  "version": "1.0.0",
+  "description": "v12 bos altyapi",
+  "main": "risen.js",
+  "scripts": {
+    "start": "node risen.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3"
+  }
+}
